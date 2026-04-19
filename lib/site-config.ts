@@ -55,8 +55,8 @@ export const siteConfig = {
   },
   contact: {
     eyebrow: 'Entre em contato',
-    title: 'Leve sua visitante direto para o WhatsApp.',
-    description: 'Basta alterar um único número no arquivo de configuração para atualizar os principais botões da página inteira.',
+    title: '',
+    description: '',
     whatsappNumber: '5583991344009',
     whatsappMessage: 'Olá, quero saber mais informações.',
     instagram: 'https://www.instagram.com/maquiadora_jessicatavares?igsh=aTM4ZTZkYTB0anE1',

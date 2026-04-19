@@ -31,9 +31,8 @@ export default function HomePage() {
           <a href="#inicio" className="text-xl tracking-wide">{brand.name}</a>
           <nav className="hidden gap-8 text-sm md:flex">
             <a href="#sobre">Sobre</a>
-            <a href="#servicos">Benefícios</a>
-            <a href="#modulos">Módulos</a>
-            <a href="#apresentacao">Apresentação</a>
+            <a href="#servicos">Serviços</a>
+            
             <a href="#localizacao">Localização</a>
             <a href="#contato">Contato</a>
           </nav>
